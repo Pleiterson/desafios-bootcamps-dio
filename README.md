@@ -87,27 +87,27 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h4>Introdução a Programação com C#</h4>
 
-- [Dividindo X por Y]()
-- [Distância]()
-- [Quanta Mandioca?]()
+- [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/08-Introducao-a-programacao-com-C%23/dividindo-X-por-Y.cs)
+- [Distância](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/08-Introducao-a-programacao-com-C%23/distancia.cs)
+- [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/08-Introducao-a-programacao-com-C%23/quanta-mandioca.cs)
 
 <h4>Solução de Problemas Essenciais com C#</h4>
 
-- [Quadrado e ao Cubo]()
-- [A Corrida de Tartarugas]()
-- [Ultrapassando V]()
-- [Validação de Nota]()
-- [Pedro Bento e o Mundo de OZ]()
+- [Quadrado e ao Cubo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/09-Solucao-de-problemas-essenciais-com-C%23/quadrado-e-ao-cubo.cs)
+- [A Corrida de Tartarugas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/09-Solucao-de-problemas-essenciais-com-C%23/a-corrida-de-tartarugas.cs)
+- [Ultrapassando V](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/09-Solucao-de-problemas-essenciais-com-C%23/ultrapassando-V.cs)
+- [Validação de Nota](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/09-Solucao-de-problemas-essenciais-com-C%23/validacao-de-nota.cs)
+- [Pedro Bento e o Mundo de OZ](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/09-Solucao-de-problemas-essenciais-com-C%23/pedro-bento-e-o-mundo-de-oz.cs)
 
 <h4>Solução de Problemas com JavaScript</h4>
 
-- [Contagem repetida de números]()
-- [Vogais Extraterrestres]()
-- [Melhor amigo do Pablo]()
-- [Entrevista embaraçosa]()
-- [Conjuntos bons ou ruins?]()
-- [Produto e divisão]()
-- [Barras de ouro]()
+- [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/contagem-repetida-de-numeros.js)
+- [Vogais Extraterrestres](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/vogais-extraterrestres.js)
+- [Melhor amigo do Pablo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/melhor-amigo-do-pablo.js)
+- [Entrevista embaraçosa](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/entrevista-embaracosa.js)
+- [Conjuntos bons ou ruins?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/conjuntos-bons-ou-ruins.js)
+- [Produto e divisão](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/produto-e-divisao.js)
+- [Barras de ouro](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/barras-de-ouro.js)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
