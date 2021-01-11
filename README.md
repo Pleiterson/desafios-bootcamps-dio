@@ -36,13 +36,54 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/multiplicacao-simples.js)
 - [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/folha-de-pagamento.js)
 
-<br><h4>Fundamentos Aritméticos em JavaScript</h4>
+<h4>Fundamentos Aritméticos em JavaScript</h4>
 
 - [Quantidade de Números Positivos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/quantidade-de-numeros-positivos.js)
 - [Exibindo Números Pares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/exibindo-numeros-pares.js)
 - [Análise de Números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/analise-de-numeros.js)
 - [Contagem de Cédulas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/contagem-de-cedulas.js)
 - [Consumo Médio do Automóvel](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/consumo-medio-do-automovel.js)
+
+<h4>Praticando Programação com JavaScript</h4>
+
+- [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/folha-de-pagamento.js)
+- [Dividindo X por Y]()
+- [Distância]()
+- [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/visita-na-feira.js)
+
+<h4>Desafios Aritméticos em JavaScript</h4>
+
+- [Coxinha de Bueno]()
+- [Consumo Médio do Automóvel](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/consumo-medio-do-automovel.js)
+- [Teorema da Divisão Euclidiana]()
+- [Contagem de Cédulas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/contagem-de-cedulas.js)
+
+<h4>Solução de Problemas</h4>
+
+- [Gincana no Acampamento]()
+- [Fila do Banco]()
+- [Quadrado e ao Cubo]()
+- [A Corrida de Tartarugas]()
+- [Uniformes de final de ano]()
+- [Pedro Bento e o Mundo de OZ]()
+
+<h4>Ordenação, filtros e Desafios</h4>
+
+- [Comunicação em Piralândia]()
+- [Compras no Supermercado]()
+- [Pedra, Papel, Tesoura, Lagarto e Spock]()
+- [O Escolhido]()
+- [Encontre a maior substring]()
+- [Menor e Posição]()
+
+<h4>Desafios Lógicos</h4>
+
+- [Abreviando posts do blog]()
+- [Brinquedos do Papai Noel]()
+- [O tabuleiro secreto]()
+- [Álbum da Copa]()
+- [Votação para Bobo da Corte]()
+- [Hash Mágico]()
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
