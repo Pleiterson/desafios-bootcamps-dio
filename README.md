@@ -85,5 +85,29 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Votação para Bobo da Corte](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/votacao-para-bobo-da-corte.js)
 - [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/hash-magico.js)
 
+<h4>Introdução a Programação com C#</h4>
+
+- [Dividindo X por Y]()
+- [Distância]()
+- [Quanta Mandioca?]()
+
+<h4>Solução de Problemas Essenciais com C#</h4>
+
+- [Quadrado e ao Cubo]()
+- [A Corrida de Tartarugas]()
+- [Ultrapassando V]()
+- [Validação de Nota]()
+- [Pedro Bento e o Mundo de OZ]()
+
+<h4>Solução de Problemas com JavaScript</h4>
+
+- [Contagem repetida de números]()
+- [Vogais Extraterrestres]()
+- [Melhor amigo do Pablo]()
+- [Entrevista embaraçosa]()
+- [Conjuntos bons ou ruins?]()
+- [Produto e divisão]()
+- [Barras de ouro]()
+
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
