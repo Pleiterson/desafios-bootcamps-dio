@@ -30,15 +30,19 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 - Este projeto está sob a licença [MIT](./LICENSE).
 
-<h4>Introdução a Programação com JavaScript</h4>
+<br><h4>Introdução a Programação com JavaScript</h4>
 
-- [Visita na Feira]()
-- [Multiplicação Simples]()
-- [Folha de Pagamento]()
+- [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/visita-na-feira.js)
+- [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/multiplicacao-simples.js)
+- [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/01-Introducao-a-programacao-com-javascript/folha-de-pagamento.js)
 
-<h4></h4>
+<br><h4>Fundamentos Aritméticos em JavaScript</h4>
 
-- []()
+- [Quantidade de Números Positivos]()
+- [Exibindo Números Pares]()
+- [Análise de Números]()
+- [Contagem de Cédulas]()
+- [Consumo Médio do Automóvel]()
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
