@@ -38,11 +38,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <br><h4>Fundamentos Aritméticos em JavaScript</h4>
 
-- [Quantidade de Números Positivos]()
-- [Exibindo Números Pares]()
-- [Análise de Números]()
-- [Contagem de Cédulas]()
-- [Consumo Médio do Automóvel]()
+- [Quantidade de Números Positivos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/quantidade-de-numeros-positivos.js)
+- [Exibindo Números Pares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/exibindo-numeros-pares.js)
+- [Análise de Números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/analise-de-numeros.js)
+- [Contagem de Cédulas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/contagem-de-cedulas.js)
+- [Consumo Médio do Automóvel](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/02-Fundamentos-aritmeticos-em-javascript/consumo-medio-do-automovel.js)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
