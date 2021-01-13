@@ -111,25 +111,25 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h4>Ordenação e Filtros em JavaScript</h4>
 
-- [Ordenando Números Pares e Ímpares]()
+- [Ordenando Números Pares e Ímpares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/11-Ordenacao-e-filtros-em-javascript/ordenando-numeros-pares-e-impares.js)
 - [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/compras-no-supermercado.js)
 - [Uniformes de final de ano](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/05-Solucao-de-problemas/uniformes-de-final-de-ano.js)
-- [Fila do Banco]()
+- [Fila do Banco](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/11-Ordenacao-e-filtros-em-javascript/fila-do-banco.js)
 - [Gincana no Acampamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/05-Solucao-de-problemas/gincana-no-acampamento.js)
 
 <h4>Introdução a Busca e Substituição em JavaScript</h4>
 
-- [Ordenação de palavras por tamanho]()
+- [Ordenação de palavras por tamanho](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/12-Introducao-a-busca-e-substituicao-em-javascript/ordenacao-de-palavras-por-tamanho.js)
 - [Encontre a maior substring](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/encontre-a-maior-substring.js)
-- [Validador de senhas com requisitos]()
+- [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/12-Introducao-a-busca-e-substituicao-em-javascript/validador-de-senhas-com-requisitos.js)
 - [Pedra, Papel, Tesoura, Lagarto e Spock](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/pedra-papel-tesoura-lagarto-e-spock.js)
-- [Atalhos para o Weblogger Brasil]()
+- [Atalhos para o Weblogger Brasil](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/12-Introducao-a-busca-e-substituicao-em-javascript/atalhos-para-o-weblogger-brasil.js)
 
 <h4>Resolvendo Algoritmos com JavaScript</h4>
 
-- [Coração das cartas]()
+- [Coração das cartas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/13-Resolvendo-algoritmos-com-javascript/coracao-das-cartas.js)
 - [Abreviando posts do blog](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/abreviando-posts-do-blog.js)
-- [Combinação de strings]()
+- [Combinação de strings](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/13-Resolvendo-algoritmos-com-javascript/combinacao-de-strings.js)
 - [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/hash-magico.js)
 - [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/o-tabuleiro-secreto.js)
 
