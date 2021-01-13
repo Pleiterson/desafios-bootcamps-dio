@@ -109,5 +109,29 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Produto e divisão](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/produto-e-divisao.js)
 - [Barras de ouro](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/10-Solucao-de-problemas-com-javascript/barras-de-ouro.js)
 
+<h4>Ordenação e Filtros em JavaScript</h4>
+
+- [Ordenando Números Pares e Ímpares]()
+- [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/compras-no-supermercado.js)
+- [Uniformes de final de ano](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/05-Solucao-de-problemas/uniformes-de-final-de-ano.js)
+- [Fila do Banco]()
+- [Gincana no Acampamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/05-Solucao-de-problemas/gincana-no-acampamento.js)
+
+<h4>Introdução a Busca e Substituição em JavaScript</h4>
+
+- [Ordenação de palavras por tamanho]()
+- [Encontre a maior substring](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/encontre-a-maior-substring.js)
+- [Validador de senhas com requisitos]()
+- [Pedra, Papel, Tesoura, Lagarto e Spock](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/06-Ordenacao-filtros-e-desafios/pedra-papel-tesoura-lagarto-e-spock.js)
+- [Atalhos para o Weblogger Brasil]()
+
+<h4>Resolvendo Algoritmos com JavaScript</h4>
+
+- [Coração das cartas]()
+- [Abreviando posts do blog](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/abreviando-posts-do-blog.js)
+- [Combinação de strings]()
+- [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/hash-magico.js)
+- [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/07-Desafios-logicos/o-tabuleiro-secreto.js)
+
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
