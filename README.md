@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/dotnet-mongodb?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/desafios-bootcamps-dio?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/dotnet-mongodb?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/desafios-bootcamps-dio?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/dotnet-mongodb?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/desafios-bootcamps-dio?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/dotnet-mongodb?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/desafios-bootcamps-dio?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
@@ -34,9 +34,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Códigos nas Linguagens</h3>
 
-- [C#]()
-<!-- - [Java]() -->
-- [JavaScript]()
+- [C#](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/C%23)
+- [Java]()
+- [JavaScript](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
