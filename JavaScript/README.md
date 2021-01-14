@@ -21,8 +21,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>Praticando Programação com JavaScript</h3>
 
 - [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js)
-- [Dividindo X por Y]()
-- [Distância]()
+- [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js)
+- [Distância](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/distancia.js)
 - [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js)
 
 <h3>Desafios Aritméticos em JavaScript</h3>
