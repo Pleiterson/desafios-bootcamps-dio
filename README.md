@@ -35,7 +35,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>Códigos nas Linguagens</h3>
 
 - [C#](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/C%23)
-- [Java]()
+- [Java](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Java)
 - [JavaScript](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript)
 
 <!--Bottom session-->
