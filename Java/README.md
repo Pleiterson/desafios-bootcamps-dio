@@ -4,12 +4,6 @@
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 
-<h3>Introdução a Programação com Java</h3>
-
-- [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/visita-na-feira.java)
-- [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/multiplicacao-simples.java)
-- [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/folha-de-pagamento.java)
-
 <h3>Fundamentos Aritméticos em Java</h3>
 
 - [Quantidade de Números Positivos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/quantidade-de-numeros-positivos.java)
@@ -17,6 +11,20 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Análise de Números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/analise-de-numeros.java)
 - [Contagem de Cédulas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/contagem-de-cedulas.java)
 - [Consumo Médio do Automóvel](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/consumo-medio-do-automovel.java)
+
+<h3>Introdução a Busca e Substituição em Java</h3>
+
+- [Ordenação de palavras por tamanho](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ordenacao-de-palavras-por-tamanho.java)
+- [Encontre a maior substring](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/encontre-a-maior-substring.java)
+- [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/validador-de-senhas-com-requisitos.java)
+- [Pedra, Papel, Tesoura, Lagarto e Spock](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/pedra-papel-tesoura-lagarto-e-spock.java)
+- [Atalhos para o Weblogger Brasil](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/atalhos-para-o-weblogger-brasil.java)
+
+<h3>Introdução a Programação com Java</h3>
+
+- [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/visita-na-feira.java)
+- [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/multiplicacao-simples.java)
+- [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/folha-de-pagamento.java)
 
 <h3>Ordenação e Filtros em Java</h3>
 
@@ -26,13 +34,13 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Fila do Banco](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/fila-do-banco.java)
 - [Gincana no Acampamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/gincana-no-acampamento.java)
 
-<h3>Introdução a Busca e Substituição em Java</h3>
+<h3>Resolvendo Algoritmos com Java</h3>
 
-- [Ordenação de palavras por tamanho](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ordenacao-de-palavras-por-tamanho.java)
-- [Encontre a maior substring](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/encontre-a-maior-substring.java)
-- [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/validador-de-senhas-com-requisitos.java)
-- [Pedra, Papel, Tesoura, Lagarto e Spock](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/pedra-papel-tesoura-lagarto-e-spock.java)
-- [Atalhos para o Weblogger Brasil](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/atalhos-para-o-weblogger-brasil.java)
+<!-- - [Coração das cartas]()
+- [Abreviando posts do blog]() -->
+- [Combinação de strings](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/combinacao-de-strings.java)
+- [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/hash-magico.java)
+- [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/o-tabuleiro-secreto.java)
 
 <h3>Solução de Problemas com Java</h3>
 
@@ -43,14 +51,6 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Conjuntos bons ou ruins?]()
 - [Produto e divisão]()
 - [Barras de ouro]() -->
-
-<h3>Resolvendo Algoritmos com Java</h3>
-
-<!-- - [Coração das cartas]()
-- [Abreviando posts do blog]() -->
-- [Combinação de strings](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/combinacao-de-strings.java)
-- [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/hash-magico.java)
-- [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/o-tabuleiro-secreto.java)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
