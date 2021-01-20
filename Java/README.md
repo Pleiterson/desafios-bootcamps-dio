@@ -36,8 +36,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Resolvendo Algoritmos com Java</h3>
 
-<!-- - [Coração das cartas]()
-- [Abreviando posts do blog]() -->
+- [Coração das cartas]()
+- [Abreviando posts do blog]()
 - [Combinação de strings](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/combinacao-de-strings.java)
 - [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/hash-magico.java)
 - [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/o-tabuleiro-secreto.java)
