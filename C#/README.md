@@ -12,13 +12,13 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Resolvendo Algoritmos</h3>
 
-- [Hora da Corrida]()
-- [Cardápio Aéreo]()
-- [Pizza Antes do Final do Ano]()
-- [Conversão de Tempo]()
-- [Idade em Dias]()
-- [Tempo do Dobby]()
-- [Rodízio de cavalos e carruagens]()
+- [Hora da Corrida](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/hora-da-corrida.cs)
+- [Cardápio Aéreo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/cardapio-aereo.cs)
+- [Pizza Antes do Final do Ano](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/pizza-antes-do-final-do-ano.cs)
+- [Conversão de Tempo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/conversao-de-tempo.cs)
+- [Idade em Dias](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/idade-em-dias.cs)
+- [Tempo do Dobby](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/tempo-do-dobby.cs)
+- [Rodízio de cavalos e carruagens](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/rodizio-de-cavalos-e-carruagens.cs)
 
 <h3>Solução de Problemas Essenciais com C#</h3>
 
