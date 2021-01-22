@@ -7,8 +7,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>Introdução a Programação com .NET</h3>
 
 - [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/dividindo-X-por-Y.cs)
-- [Bazinga!]()
-- [Coxinha de Bueno]()
+- [Bazinga!](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/bazinga.cs)
+- [Coxinha de Bueno](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs)
 
 <h3>Introdução a Programação com C#</h3>
 
@@ -28,11 +28,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Solução de problemas com .NET</h3>
 
-- [Programa para Validação de Notas]()
+- [Programa para Validação de Notas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/programa-para-validacao-de-notas.cs)
 - [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs)
-- [Compras no Supermercado]()
-- [Validador de senhas com requisitos]()
-- [Fila do Banco]()
+- [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs)
+- [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/validador-de-senhas-com-requisitos.cs)
+- [Fila do Banco](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/fila-do-banco.cs)
 
 <h3>Solução de Problemas Essenciais com C#</h3>
 
