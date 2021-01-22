@@ -26,6 +26,14 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Tempo do Dobby](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/tempo-do-dobby.cs)
 - [Rodízio de cavalos e carruagens](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/rodizio-de-cavalos-e-carruagens.cs)
 
+<h3>Solução de problemas com .NET</h3>
+
+- [Programa para Validação de Notas]()
+- [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs)
+- [Compras no Supermercado]()
+- [Validador de senhas com requisitos]()
+- [Fila do Banco]()
+
 <h3>Solução de Problemas Essenciais com C#</h3>
 
 - [Quadrado e ao Cubo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/quadrado-e-ao-cubo.cs)
