@@ -44,9 +44,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Solução de problemas básicos em Java</h3>
 
-- [Exibindo Números Pares]()
-- [Idade em Dias]()
-- [Notas da Prova]()
+- [Exibindo Números Pares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/exibindo-numeros-pares.java)
+- [Idade em Dias](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/idade-em-dias.java)
+- [Notas da Prova](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/notas-da-prova.java)
 
 <h3>Solução de Problemas com Java</h3>
 

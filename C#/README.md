@@ -6,9 +6,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Desenvolvendo algoritmos com C#</h3>
 
-- [Cálculo de viagem]()
-- [Álbum da Copa]()
-- [Animal]()
+- [Cálculo de viagem](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs)
+- [Álbum da Copa](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/album-da-copa.cs)
+- [Animal](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs)
 
 <h3>Introdução a Programação com .NET</h3>
 
