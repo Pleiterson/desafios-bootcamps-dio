@@ -4,6 +4,12 @@
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 
+<h3>Desenvolvendo algoritmos com C#</h3>
+
+- [Cálculo de viagem]()
+- [Álbum da Copa]()
+- [Animal]()
+
 <h3>Introdução a Programação com .NET</h3>
 
 - [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/dividindo-X-por-Y.cs)

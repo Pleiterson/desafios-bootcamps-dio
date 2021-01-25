@@ -42,6 +42,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/hash-magico.java)
 - [O tabuleiro secreto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/o-tabuleiro-secreto.java)
 
+<h3>Solução de problemas básicos em Java</h3>
+
+- [Exibindo Números Pares]()
+- [Idade em Dias]()
+- [Notas da Prova]()
+
 <h3>Solução de Problemas com Java</h3>
 
 - [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/contagem-repetida-de-numeros.java)
