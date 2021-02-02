@@ -53,10 +53,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/contagem-repetida-de-numeros.java)
 - [Vogais Extraterrestres](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/vogais-extraterrestres.java)
 - [Melhor amigo do Pablo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/melhor-amigo-do-pablo.java)
-- [Entrevista embaraçosa]()
-- [Conjuntos bons ou ruins?]()
-- [Produto e divisão]()
-- [Barras de ouro]()
+- [Entrevista embaraçosa](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/entrevista-embaracosa.java)
+- [Conjuntos bons ou ruins?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/conjuntos-bons-ou-ruins.java)
+- [Produto e divisão](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/produto-e-divisao.java)
+- [Barras de ouro](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/barras-de-ouro.java)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
