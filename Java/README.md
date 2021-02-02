@@ -53,10 +53,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/contagem-repetida-de-numeros.java)
 - [Vogais Extraterrestres](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/vogais-extraterrestres.java)
 - [Melhor amigo do Pablo](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/melhor-amigo-do-pablo.java)
-<!-- - [Entrevista embaraçosa]() -->
-<!-- - [Conjuntos bons ou ruins?]() -->
-<!-- - [Produto e divisão]() -->
-<!-- - [Barras de ouro]() -->
+- [Entrevista embaraçosa]()
+- [Conjuntos bons ou ruins?]()
+- [Produto e divisão]()
+- [Barras de ouro]()
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
