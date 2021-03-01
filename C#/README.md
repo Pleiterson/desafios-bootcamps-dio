@@ -6,11 +6,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Desafios aritméticos em C#</h3>
 
-- [Média 1]()
-- [Crescimento Populacional]()
-- [Bazinga!]()
-- [Tempo de um Evento]()
-- [Comunicação em Piralândia]()
+- [Média 1](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs)
+- [Crescimento Populacional](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs)
+- [Bazinga!](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs)
+- [Tempo de um Evento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs)
+- [Comunicação em Piralândia](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs)
 
 <h3>Desenvolvendo algoritmos com C#</h3>
 
@@ -32,9 +32,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Praticando programação em C#</h3>
 
-- [Coordenadas de um Ponto]()
+- [Coordenadas de um Ponto](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs)
 - [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs)
-- [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs)
+- [Pink e Cérebro](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/pink-cerebro.cs)
 
 <h3>Resolvendo Algoritmos</h3>
 
@@ -56,9 +56,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <h3>Solução de problemas em C#</h3>
 
-- [Consumo Médio do Automóvel]()
-- [DDD]()
-- [Aumento de Salário]()
+- [Consumo Médio do Automóvel](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/consumo-medio-do-automovel.cs)
+- [DDD](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/ddd.cs)
+- [Aumento de Salário](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/aumento-salario.cs)
 
 <h3>Solução de Problemas Essenciais com C#</h3>
 
