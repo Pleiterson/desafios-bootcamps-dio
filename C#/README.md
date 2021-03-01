@@ -4,6 +4,14 @@
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 
+<h3>Desafios aritméticos em C#</h3>
+
+- [Média 1]()
+- [Crescimento Populacional]()
+- [Bazinga!]()
+- [Tempo de um Evento]()
+- [Comunicação em Piralândia]()
+
 <h3>Desenvolvendo algoritmos com C#</h3>
 
 - [Cálculo de viagem](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs)
@@ -20,6 +28,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 - [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/dividindo-X-por-Y.cs)
 - [Distância](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/distancia.cs)
+- [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs)
+
+<h3>Praticando programação em C#</h3>
+
+- [Coordenadas de um Ponto]()
+- [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs)
 - [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs)
 
 <h3>Resolvendo Algoritmos</h3>
@@ -39,6 +53,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs)
 - [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/validador-de-senhas-com-requisitos.cs)
 - [Fila do Banco](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/fila-do-banco.cs)
+
+<h3>Solução de problemas em C#</h3>
+
+- [Consumo Médio do Automóvel]()
+- [DDD]()
+- [Aumento de Salário]()
 
 <h3>Solução de Problemas Essenciais com C#</h3>
 
