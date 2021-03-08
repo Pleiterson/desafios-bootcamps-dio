@@ -28,6 +28,13 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Votação para Bobo da Corte](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js)
 - [Hash Mágico](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/hash-magico.js)
 
+<h3>Desenvolvimento de problemas avançados em JavaScript</h3>
+
+- [Ordenando Números Pares e Ímpares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js)
+- [Animal]()
+- [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js)
+
+
 <h3>Fundamentos Aritméticos em JavaScript</h3>
 
 - [Quantidade de Números Positivos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/quantidade-de-numeros-positivos.js)
@@ -80,6 +87,14 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Distância](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/distancia.js)
 - [Visita na Feira](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js)
 
+<h3>Praticando programação em JavaScript</h3>
+
+- [Quanta Mandioca?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js)
+- [Votação para Bobo da Corte](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js)
+- [Comunicação em Piralândia](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js)
+- [Contagem de Cédulas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js)
+- [Folha de Pagamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js)
+
 <h3>Problemas Aritméticos</h3>
 
 - [Soma Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js)
@@ -112,6 +127,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [A Corrida de Tartarugas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/a-corrida-de-tartarugas.js)
 - [Uniformes de final de ano](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/uniformes-de-final-de-ano.js)
 - [Pedro Bento e o Mundo de OZ](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/pedro-bento-e-o-mundo-de-oz.js)
+
+<h3>Solução de problemas básicos em JavaScript</h3>
+
+- [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js)
+- [Blobs]()
+- [Tipo de Combustível](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js)
 
 <h3>Solução de Problemas com JavaScript</h3>
 
