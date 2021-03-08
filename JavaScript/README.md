@@ -31,7 +31,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>Desenvolvimento de problemas avançados em JavaScript</h3>
 
 - [Ordenando Números Pares e Ímpares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js)
-- [Animal]()
+- [Animal](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/animal.js)
 - [Compras no Supermercado](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js)
 
 
@@ -131,7 +131,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>Solução de problemas básicos em JavaScript</h3>
 
 - [Dividindo X por Y](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js)
-- [Blobs]()
+- [Blobs](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/blobs.js)
 - [Tipo de Combustível](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js)
 
 <h3>Solução de Problemas com JavaScript</h3>
