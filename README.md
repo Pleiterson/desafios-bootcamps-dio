@@ -70,8 +70,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     </div>
     <div>
       <h4>Solução de problemas básicos em C#</h4>
-      <a href="">Visita na Feira</a><br/>
-      <a href="">Tuitando</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/visita-na-feira.cs">Visita na Feira</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/tuitando.cs">Tuitando</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
     </div>
     <div>
@@ -98,11 +98,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     </div>
     <div>
       <h4>Solucionando desafios intermediários em C#</h4>
-      <a href="">Teste de Seleção 1</a><br/>
-      <a href="">Triângulo</a><br/>
-      <a href="">Notas e Moedas</a><br/>
-      <a href="">Teorema da Divisão Euclidiana</a><br/>
-      <a href="">Fórmula de Bhaskara</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/triangulo.cs">Triângulo</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/notas-e-moedas.cs">Notas e Moedas</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teorematda-divisao-euclidiana.cs">Teorema da Divisão Euclidiana</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
     </div>
 </details>
 
