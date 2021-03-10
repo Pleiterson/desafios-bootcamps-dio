@@ -69,6 +69,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/rodizio-de-cavalos-e-carruagens.cs">Rodízio de cavalos e carruagens</a><br/>
     </div>
     <div>
+      <h4>Solução de problemas básicos em C#</h4>
+      <a href="">Visita na Feira</a><br/>
+      <a href="">Tuitando</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
+    </div>
+    <div>
       <h4>Solução de problemas com .NET</h4>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/programa-para-validacao-de-notas.cs">Programa para Validação de Notas</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
@@ -91,9 +97,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs">Pedro Bento e o Mundo de OZ</a><br/>
     </div>
     <div>
-      <h4></h4>
-      <a href=""></a><br/>
-      <a href=""></a><br/>
+      <h4>Solucionando desafios intermediários em C#</h4>
+      <a href="">Teste de Seleção 1</a><br/>
+      <a href="">Triângulo</a><br/>
+      <a href="">Notas e Moedas</a><br/>
+      <a href="">Teorema da Divisão Euclidiana</a><br/>
+      <a href="">Fórmula de Bhaskara</a><br/>
     </div>
 </details>
 
