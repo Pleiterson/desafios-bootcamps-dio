@@ -25,15 +25,24 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 <!-- C# -->
 <details>
-  <summary><strong>C#</strong></summary>
+  <summary><span>C#</span></summary>
     <div>
-      <h3>Desafios aritméticos em C#</h3>
-        <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a>
+      <h4>Desafios aritméticos em C#</h4>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs">Tempo de um Evento</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs">Comunicação em Piralândia</a>
+    </div>
+    <div>
+      <a href=""></a><br/>
+      <a href=""></a><br/>
+      <a href=""></a><br/>
+      <a href=""></a><br/>
+      <a href=""></a><br/>
+      <a href=""></a><br/>
+    </div>
   
-  - [Crescimento Populacional](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs)
-  - [Bazinga!](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs)
-  - [Tempo de um Evento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs)
-  - [Comunicação em Piralândia](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs)
 
   <h3>Desenvolvendo algoritmos com C#</h3>
 
@@ -90,7 +99,6 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   - [Ultrapassando V](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs)
   - [Validação de Nota](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs)
   - [Pedro Bento e o Mundo de OZ](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs)
-    </div>
 </details>
 
 <!--License session-->
