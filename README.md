@@ -28,8 +28,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><strong>C#</strong></summary>
     <div>
       <h3>Desafios aritméticos em C#</h3>
-
-  [x] [Média 1](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs)
+        <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a>
+  
   - [Crescimento Populacional](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs)
   - [Bazinga!](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs)
   - [Tempo de um Evento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs)
