@@ -4,6 +4,13 @@
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 
+<h3>
+Desafios Aritméticos em Java</h3>
+
+- [Divisores]()
+- [Análise de Números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/analise-de-numeros.java)
+- [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/contagem-repetida-de-numeros.java)
+
 <h3>Fundamentos Aritméticos em Java</h3>
 
 - [Quantidade de Números Positivos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/quantidade-de-numeros-positivos.java)
@@ -34,6 +41,14 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Fila do Banco](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/fila-do-banco.java)
 - [Gincana no Acampamento](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/gincana-no-acampamento.java)
 
+<h3>Praticando programação em Java</h3>
+
+- [Abreviando posts do blog](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/abreviando-posts-do-blog.java)
+- [Conjuntos bons ou ruins?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/conjuntos-bons-ou-ruins.java)
+- [Encontre a maior substring](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/encontre-a-maior-substring.java)
+- [Entrevista embaraçosa](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/entrevista-embaracosa.java)
+- [Validador de senhas com requisitos](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/validador-de-senhas-com-requisitos.java)
+
 <h3>Resolvendo Algoritmos com Java</h3>
 
 - [Coração das cartas](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/coracao-das-cartas.java)
@@ -57,6 +72,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 - [Conjuntos bons ou ruins?](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/conjuntos-bons-ou-ruins.java)
 - [Produto e divisão](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/produto-e-divisao.java)
 - [Barras de ouro](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/barras-de-ouro.java)
+
+<h3>Solucionando problemas básicos em Java</h3>
+
+- [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/multiplicacao-simples.java)
+- [Menor e Posição]()
+- [Números Ímpares]()
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>

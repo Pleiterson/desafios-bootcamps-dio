@@ -21,22 +21,16 @@
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 
-<h3>👨‍💻 Tecnologias utilizadas</h3>
-
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [Java](https://docs.oracle.com/en/java/javase/15/?xd_co_f=f16f75d5-23ff-466f-a694-6a44510f72f7)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-<!--License session-->
-<h3>📝 Licença</h3>
-
-- Este projeto está sob a licença [MIT](./LICENSE).
-
 <h3>Códigos nas Linguagens</h3>
 
 - [C#](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/C%23)
 - [Java](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Java)
 - [JavaScript](https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript)
+
+<!--License session-->
+<h3>📝 Licença</h3>
+
+- Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
