@@ -7,7 +7,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <h3>
 Desafios Aritméticos em Java</h3>
 
-- [Divisores]()
+- [Divisores](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Aritm%C3%A9ticos%20em%20Java/divisores.java)
 - [Análise de Números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/analise-de-numeros.java)
 - [Contagem repetida de números](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/contagem-repetida-de-numeros.java)
 
@@ -76,8 +76,8 @@ Desafios Aritméticos em Java</h3>
 <h3>Solucionando problemas básicos em Java</h3>
 
 - [Multiplicação Simples](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/multiplicacao-simples.java)
-- [Menor e Posição]()
-- [Números Ímpares]()
+- [Menor e Posição](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/menor-e-posicao.java)
+- [Números Ímpares](https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/numeros-impares.java)
 
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
