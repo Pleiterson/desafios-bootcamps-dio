@@ -48,7 +48,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class GincanaNoAcampamento {
+public class GincanaAcampamento {
     public static void main(String[] args) {
         Scanner scr = new Scanner(System.in);
         List<String> listaAlunos = new ArrayList<>();

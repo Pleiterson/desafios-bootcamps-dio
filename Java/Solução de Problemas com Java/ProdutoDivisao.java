@@ -41,7 +41,7 @@ import java.math.MathContext;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
-public class ProductAndDivision {
+public class ProdutoDivisao {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

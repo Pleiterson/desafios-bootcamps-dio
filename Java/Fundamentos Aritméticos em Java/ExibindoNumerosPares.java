@@ -16,7 +16,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class VerificaSePar {
+public class ExibindoNumerosPares {
     public static void main(String[] args) throws IOException {
         String entrada;
         

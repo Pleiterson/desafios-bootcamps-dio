@@ -15,7 +15,7 @@ Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 
 import java.util.Scanner;
 
-public class MinhaTerceiraClasse {
+public class NumerosImpares {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int num = entrada.nextInt();

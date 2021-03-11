@@ -18,7 +18,7 @@ O tamanho da maior subsequência comum entre as duas Strings. */
 
 import java.util.Scanner;
 
-public class EncontreMaiorSubstring {
+public class MaiorSubstring {
     public static void main(String[] args) {
         Scanner scr = new Scanner(System.in);
         String palavra1;

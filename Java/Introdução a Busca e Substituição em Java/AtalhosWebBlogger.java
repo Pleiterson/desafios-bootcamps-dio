@@ -52,7 +52,7 @@ com </b>. */
 
 import java.util.Scanner;
 
-public class AtalhosWeblogger {
+public class AtalhosWebBlogger {
   public static void main(String[] args) {
     Scanner scr = new Scanner(System.in);
     String linha;

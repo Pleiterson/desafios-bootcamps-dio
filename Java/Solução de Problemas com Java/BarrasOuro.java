@@ -44,7 +44,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class GoldBars {
+public class BarrasOuro {
   static int cargoCapacity;
   class Edge {
     Vertex destinationVertex;

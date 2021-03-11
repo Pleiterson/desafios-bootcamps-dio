@@ -53,7 +53,7 @@ import java.io.IOException;
 import java.util.stream.Collectors;
 import java.util.*;
 
-public class Main {
+public class AbreviacaoPostsBlog {
     public static void main(String[] args) throws IOException {
         List<String> alfabeto = new ArrayList(Arrays.asList("abcdefghijklmnopqrstuvwxyz".split("")));
         List<String> entradas = new ArrayList<String>();

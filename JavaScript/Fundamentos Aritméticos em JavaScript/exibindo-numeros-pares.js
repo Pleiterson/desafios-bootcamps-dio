@@ -1,6 +1,7 @@
 // Exibindo Números Pares
 
-/* Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
+/* Crie um programa que leia um número e mostre os números pares até esse
+número, inclusive ele mesmo.
 
 - Entrada
 
@@ -13,7 +14,7 @@ Exiba todos os números pares até o valor de entrada, sendo um em cada linha. *
 let numero = gets();
 let par = 2;
 
-while (par <= numero){
+while (par <= numero) {
   console.log(par);
   par = par + 2;
 }

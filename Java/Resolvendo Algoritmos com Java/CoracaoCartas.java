@@ -28,7 +28,7 @@ ganhar a instância do jogo ou o número 0 se o jogo for impossível. */
 
 import java.util.*;
 
-public class Main {
+public class CoracaoCartas {
     static Map<String, Integer> m = new HashMap<String, Integer>();
     static int n;
     static int[][] pilha = new int[3][102];

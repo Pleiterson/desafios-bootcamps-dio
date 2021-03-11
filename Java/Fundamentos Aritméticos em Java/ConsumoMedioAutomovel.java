@@ -21,7 +21,7 @@ import java.io.InputStreamReader;
 import java.math.BigDecimal;
 import java.math.MathContext;
 
-public class CalcularConsumoMedio {
+public class ConsumoMedioAutomovel {
     public static void main(String[] args) throws IOException {
         BigDecimal km;
         BigDecimal combustivel;

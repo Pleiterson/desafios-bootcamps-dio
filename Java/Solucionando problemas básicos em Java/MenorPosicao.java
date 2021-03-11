@@ -22,7 +22,7 @@ lido, lembrando que o vetor inicia na posição zero.
 import java.io.IOException;
 import java.util.Scanner;
 
-public class MinhaSegundaClasse {
+public class MenorPosicao {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         int N = leitor.nextInt();
