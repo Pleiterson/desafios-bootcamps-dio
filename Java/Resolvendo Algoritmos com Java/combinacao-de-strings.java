@@ -1,18 +1,26 @@
 // Combinação de strings
 
-/* Crie um algoritmo que receba dois inputs que sejam strings e combine-as alternando as letras de cada string. 
+/* Crie um algoritmo que receba dois inputs que sejam strings e combine-as
+alternando as letras de cada string. 
 
-Deve começar pela primeira letra da primeira string, seguido pela primeira letra da segunda string, em seguida pela segunda letra da primeira string e continuar dessa forma sucessivamente.
+Deve começar pela primeira letra da primeira string, seguido pela primeira
+letra da segunda string, em seguida pela segunda letra da primeira string e
+continuar dessa forma sucessivamente.
 
-As letras restantes da cadeia mais longa devem ser adicionadas ao fim da string resultante e retornada.
+As letras restantes da cadeia mais longa devem ser adicionadas ao fim da string
+resultante e retornada.
 
 - Entrada
 
-A entrada contém vários casos de teste. A primeira linha contém um inteiro N que indica a quantidade de casos de teste que vem a seguir. Cada caso de teste é composto por uma linha que contém duas cadeias de caracteres, cada cadeia de caracteres contém entre 1 e 50 caracteres inclusive.
+A entrada contém vários casos de teste. A primeira linha contém um inteiro N
+que indica a quantidade de casos de teste que vem a seguir. Cada caso de teste
+é composto por uma linha que contém duas cadeias de caracteres, cada cadeia de
+caracteres contém entre 1 e 50 caracteres inclusive.
 
 - Saída
 
-Combine as duas cadeias de caracteres da entrada como mostrado no exemplo abaixo e exiba a cadeia resultante. */
+Combine as duas cadeias de caracteres da entrada como mostrado no exemplo
+abaixo e exiba a cadeia resultante. */
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -58,6 +66,7 @@ public class CombinacaoDeStrings {
     
         if(p2.length() > p1.length()) {
             int qtde = p2.length() - p1.length();
+            
             for (int i = p2.length() - qtde; i < p2.length(); i++) {
                 combinacao += String.valueOf(p2.charAt(i));
             }

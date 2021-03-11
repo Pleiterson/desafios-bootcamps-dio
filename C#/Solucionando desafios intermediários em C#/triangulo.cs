@@ -21,7 +21,6 @@ O resultado deve ser apresentado com uma casa decimal.
 using System; 
 
 class minhaClasse {
-
     static void Main(string[] args) { 
         double a, b, c;
         string[] valor = Console.ReadLine().Split();
@@ -32,9 +31,11 @@ class minhaClasse {
 
         if((a<b+c) && (b<a+c) && (c<a+b)) {
             double p = a + b + c;
+
             Console.WriteLine("Perimetro = {0:0.0}", p);
         } else {
             double area = ((a + b) * c) / 2;
+
             Console.WriteLine("Area = {0:0.0}", area);
         }
     }
