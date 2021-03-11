@@ -21,7 +21,8 @@ C, e D, como descrito acima (1 ≤ A, B, C, D ≤ 109).
 - Saída
 
 Seu programa deve produzir uma única linha. Caso exista pelo menos um número n
-para os quais A, B, C e D façam sentido, a linha deve conter o menor n possível. Caso contrário, a linha deve conter -1.
+para os quais A, B, C e D façam sentido, a linha deve conter o menor n
+possível. Caso contrário, a linha deve conter -1.
 */
 
 import java.util.*;
