@@ -347,6 +347,30 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
 </details>
 
+<!-- Kotlin -->
+<details>
+  <summary><span>Kotlin</span></summary>
+  <div>
+    <h4>Introdução a programação em Kotlin</h4>
+    <a href="">Soma Simples</a><br/>
+    <a href="">Números Ímpares</a><br/>
+    <a href="">Quadrado e ao Cubo</a><br/>
+  </div>
+  <div>
+    <h4>Praticando programação em Kotlin</h4>
+    <a href="">O jogo Matemático de Paula</a><br/>
+    <a href="">Conversão Simples de Base</a><br/>
+    <a href="">Bob Conduite</a><br/>
+  </div>
+  <div>
+    <h4>Solucionando problemas em Kotlin</h4>
+    <a href="">Taxa de Imposto de Renda</a><br/>
+    <a href="">Área do Círculo</a><br/>
+    <a href="">A Corrida de Tartarugas</a><br/>
+    <a href="">Figurinhas</a><br/>
+  </div>
+</details>
+
 <!--License session-->
 <h3>📝 Licença</h3>
 
