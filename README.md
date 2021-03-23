@@ -24,14 +24,25 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <!-- Ícones das linguagens -->
 <p align="center">
   <!-- C# -->
-  <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/C%23">
+    <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
+  </a>
   <!-- Java -->
-  <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Java">
+    <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
+  </a>
   <!-- JavaScript -->
-  <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript">
+    <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
+  </a>
   <!-- Kotlin -->
-  <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
-  <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Kotlin">
+    <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
+  </a>
+  <!-- Ruby -->
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Ruby">
+    <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
+  </a>
 </p>
 
 <h3>📚 Códigos nas Linguagens </h3>
