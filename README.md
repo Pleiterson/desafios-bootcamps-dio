@@ -371,6 +371,31 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
 </details>
 
+<!-- Ruby -->
+<details>
+  <summary><span>Ruby</span></summary>
+  <div>
+    <h4>Praticando com desafios intermediários em Ruby</h4>
+    <a href="">Encaixa ou Não?</a><br/>
+    <a href="">Tipo de Combustível</a><br/>
+    <a href="">Crescimento Populacional</a><br/>
+    <a href="">Fibonacci Fácil</a><br/>
+    <a href="">Sequência Lógica</a><br/>
+  </div>
+  <div>
+    <h4>Solucionando desafios matemáticos em Ruby</h4>
+    <a href="">Substituição em Vetor I</a><br/>
+    <a href="">Fibonacci em Vetor</a><br/>
+    <a href="">Acima da Diagonal Principal</a><br/>
+  </div>
+  <div>
+    <h4>Solucionando problemas básicos em Ruby</h4>
+    <a href="">Par ou Ímpar</a><br/>
+    <a href="">DDD</a><br/>
+    <a href="">Idade em Dias</a><br/>
+  </div>
+</details>
+
 <!--License session-->
 <h3>📝 Licença</h3>
 
