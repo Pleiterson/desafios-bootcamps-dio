@@ -148,6 +148,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ConsumoMedioAutomovel.java">Consumo Médio do Automóvel</a><br/>
   </div>
   <div>
+    <h4>Iniciando a programação em Java</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
+    <a href="">Entrada e Saída CPF</a><br/>
+    <a href="">DDD</a><br/>
+  </div>
+  <div>
     <h4>Introdução a Busca e Substituição em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/OrdenacaoPalavrasPorTamanho.java">Ordenação de palavras por tamanho</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/MaiorSubstring.java">Encontre a maior substring</a><br/>
