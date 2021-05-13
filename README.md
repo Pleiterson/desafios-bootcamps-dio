@@ -150,8 +150,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Iniciando a programação em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
-    <a href="">Entrada e Saída CPF</a><br/>
-    <a href="">DDD</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/EntradaESaidaCPF.java">Entrada e Saída CPF</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">DDD</a><br/>
   </div>
   <div>
     <h4>Introdução a Busca e Substituição em Java</h4>
