@@ -382,22 +382,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Kotlin</span></summary>
   <div>
     <h4>Introdução a programação em Kotlin</h4>
-    <a href="">Soma Simples</a><br/>
-    <a href="">Números Ímpares</a><br/>
-    <a href="">Quadrado e ao Cubo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/NumerosImpares.kt">Números Ímpares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/QuadradoCubo.kt">Quadrado e ao Cubo</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Kotlin</h4>
-    <a href="">O jogo Matemático de Paula</a><br/>
-    <a href="">Conversão Simples de Base</a><br/>
-    <a href="">Bob Conduite</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/JogoMatematicoPaula.kt">O jogo Matemático de Paula</a><br/>
+    <a href=https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/ConversaoSimplesBase.kt">Conversão Simples de Base</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
   </div>
   <div>
     <h4>Solucionando problemas em Kotlin</h4>
-    <a href="">Taxa de Imposto de Renda</a><br/>
-    <a href="">Área do Círculo</a><br/>
-    <a href="">A Corrida de Tartarugas</a><br/>
-    <a href="">Figurinhas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/TaxaImpostoRenda.kt">Taxa de Imposto de Renda</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/AreaCirculo.kt">Área do Círculo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/PrimoRapido.kt">Primo Rápido</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/CorridaTartarugas.kt">A Corrida de Tartarugas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas.kt">Figurinhas</a><br/>
   </div>
 </details>
 
