@@ -84,9 +84,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     </div>
     <div>
       <h4>Primeiros programas em C#</h4>
-      <a href="">Soma Simples</a><br/>
-      <a href="">Área do Círculo</a><br/>
-      <a href="">Múltiplos</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/soma-simples.cs">Soma Simples</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/area-circulo.cs">Área do Círculo</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
     </div>
     <div>
       <h4>Resolvendo Algoritmos</h4>
