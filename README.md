@@ -83,6 +83,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/pink-cerebro.cs">Pink e Cérebro</a><br/>
     </div>
     <div>
+      <h4>Primeiros programas em C#</h4>
+      <a href="">Soma Simples</a><br/>
+      <a href="">Área do Círculo</a><br/>
+      <a href="">Múltiplos</a><br/>
+    </div>
+    <div>
       <h4>Resolvendo Algoritmos</h4>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/hora-da-corrida.cs">Hora da Corrida</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/cardapio-aereo.cs">Cardápio Aéreo</a><br/>
@@ -91,6 +97,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/idade-em-dias.cs">Idade em Dias</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/tempo-do-dobby.cs">Tempo do Dobby</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/rodizio-de-cavalos-e-carruagens.cs">Rodízio de cavalos e carruagens</a><br/>
+    </div>
+    <div>
+      <h4>Resolvendo algoritmos com C#</h4>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/cardapio-aereo.cs">Cardápio Aéreo</a><br/>
     </div>
     <div>
       <h4>Solução de problemas básicos em C#</h4>
@@ -119,6 +131,14 @@ Os códigos estão rodando normalmente na plataforma da DIO.
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
       <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs">Pedro Bento e o Mundo de OZ</a><br/>
+    </div>
+    <div>
+      <h4>Solucionando desafios em C#</h4>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/pizza-antes-do-final-do-ano.cs">Pizza Antes do Final do Ano</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
+      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/conversao-de-tempo.cs">Conversão de Tempo</a><br/>
     </div>
     <div>
       <h4>Solucionando desafios intermediários em C#</h4>
