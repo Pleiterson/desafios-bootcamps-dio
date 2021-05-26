@@ -389,7 +389,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Praticando programação em Kotlin</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/JogoMatematicoPaula.kt">O jogo Matemático de Paula</a><br/>
-    <a href=https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/ConversaoSimplesBase.kt">Conversão Simples de Base</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/ConversaoSimplesBase.kt">Conversão Simples de Base</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
   </div>
   <div>
