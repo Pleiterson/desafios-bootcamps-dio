@@ -409,8 +409,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Praticando programação com Kotlin</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
-    <a href="">Distância</a><br/>
-    <a href="">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Distancia.kt">Distância</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/ContagemDeCedulas.kt">Contagem de Cédulas</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Kotlin</h4>
@@ -421,15 +421,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Primeiros passos em Kotlin</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
-    <a href="">Média 1</a><br/>
-    <a href="">Multiplicação Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/MediaUm.kt">Média 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/MultiplicacaoSimples.kt">Multiplicação Simples</a><br/>
   </div>
   <div>
     <h4>Solucionando desafios em Kotlin</h4>
-    <a href="">Teste de Seleção 1</a><br/>
-    <a href="">Fibonacci Fácil</a><br/>
-    <a href="">Análise de Números</a><br/>
-    <a href="">Triângulo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/TesteDeSelecaoUm.kt">Teste de Seleção 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/FibonacciFacil.kt">Fibonacci Fácil</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/AnaliseDeNumeros.kt">Análise de Números</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/Triangulo.kt">Triângulo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/CorridaTartarugas.kt">A Corrida de Tartarugas</a><br/>
   </div>
   <div>
