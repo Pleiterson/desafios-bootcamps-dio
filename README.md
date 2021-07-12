@@ -39,6 +39,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Kotlin">
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
+  <!-- Python -->
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Ruby">
+    <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
+  </a>
   <!-- Ruby -->
   <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
@@ -447,15 +451,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Python</span></summary>
   <div>
     <h4>Solucionando Desafios em Python</h4>
-    <a href="">Média 3</a><br/>
-    <a href="">Folha de Pagamento</a><br/>
-    <a href="">Programa para Validação de Notas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solucionando%20Desafios%20em%20Python/Media3.py">Média 3</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solucionando%20Desafios%20em%20Python/FolhaPagamento.py">Folha de Pagamento</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solucionando%20Desafios%20em%20Python/ProgramaParaValidacaoNotas.py">Programa para Validação de Notas</a><br/>
   </div>
   <div>
     <h4>Soluções Aritméticas em Python</h4>
-    <a href="">Notas da Prova</a><br/>
-    <a href="">Preenchimento de Vetor I</a><br/>
-    <a href="">Triângulo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/NotasDaProva.py">Notas da Prova</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/PreenchimentoVetorI.py">Preenchimento de Vetor I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/triangulo.py">Triângulo</a><br/>
   </div>
 </details>
 
