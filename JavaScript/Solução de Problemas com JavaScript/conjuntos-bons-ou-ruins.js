@@ -48,7 +48,6 @@ while (true) {
       total += w === currentWord ? 1 : 0
       return total
     }, 0)
-
     return same > 1;
   })
   console.log(isBad ? 'Conjunto Ruim' : 'Conjunto Bom');

@@ -25,7 +25,6 @@ for (let i = 1; i <= nCases; i++) {
   if ((input < 1 || input > 2000)) {
     continue;
   }
-  
   numbers = [...numbers, input];
 }
 

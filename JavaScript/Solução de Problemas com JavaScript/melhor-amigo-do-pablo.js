@@ -52,7 +52,6 @@ function friend(list) {
 
 do {
   let [name, option] = input.split(" ");
-  
   // para passar no teste já que não tem Abhay na resposta
   if (name !== "Abhay") {
     if (!list.some(e => e.name === name) || list == "") {

@@ -49,26 +49,26 @@ class RodizioDeCavalosECarruagens {
         Console.WriteLine("FALHA");
       } else {
         switch (placa[7]) {
-            case '1':
-            case '2':
-              Console.WriteLine("SEGUNDA");
-              break;
-            case '3':
-            case '4':
-                Console.WriteLine("TERCA");
-                break;
-            case '5':
-            case '6':
-                Console.WriteLine("QUARTA");
-                break;
-            case '7':
-            case '8':
-                Console.WriteLine("QUINTA");
-                break;
-            case '9':
-            case '0':
-                Console.WriteLine("SEXTA");
-                break;
+          case '1':
+          case '2':
+            Console.WriteLine("SEGUNDA");
+            break;
+          case '3':
+          case '4':
+            Console.WriteLine("TERCA");
+            break;
+          case '5':
+          case '6':
+            Console.WriteLine("QUARTA");
+            break;
+          case '7':
+          case '8':
+            Console.WriteLine("QUINTA");
+            break;
+          case '9':
+          case '0':
+            Console.WriteLine("SEXTA");
+            break;
         }
       }
     }

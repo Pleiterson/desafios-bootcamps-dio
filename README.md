@@ -442,6 +442,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
 </details>
 
+<!-- Python -->
+<details>
+  <summary><span>Python</span></summary>
+  <div>
+    <h4>Solucionando Desafios em Python</h4>
+    <a href="">Média 3</a><br/>
+    <a href="">Folha de Pagamento</a><br/>
+    <a href="">Programa para Validação de Notas</a><br/>
+  </div>
+  <div>
+    <h4>Soluções Aritméticas em Python</h4>
+    <a href="">Notas da Prova</a><br/>
+    <a href="">Preenchimento de Vetor I</a><br/>
+    <a href="">Triângulo</a><br/>
+  </div>
+</details>
+
 <!-- Ruby -->
 <details>
   <summary><span>Ruby</span></summary>

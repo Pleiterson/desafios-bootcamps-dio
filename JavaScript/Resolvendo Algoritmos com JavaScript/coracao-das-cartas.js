@@ -40,7 +40,6 @@ while (true) {
   for (let i = 0; i < n; i++) {
     [cards[0][i], cards[1][i], cards[2][i]] = gets().match(new RegExp(/\d+/, 'g')).map(v => parseInt(v));
   }
-
   console.log(canWinWith(0, 0, 0) ? 1 : 0);
 }
 

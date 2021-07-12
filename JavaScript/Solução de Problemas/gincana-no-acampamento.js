@@ -97,4 +97,3 @@ while (true) {
   function crawlArray(array, index, n) {
     return ((index + n) % array.length + array.length) % array.length;
   }
-  

@@ -61,7 +61,6 @@ function parseMarkdown(text) {
 }
 
 let count = 0;
-
 do {
   console.log(parseMarkdown(text));
   text = gets();

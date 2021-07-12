@@ -52,7 +52,6 @@ class Weapon {
       if (Weapon[oneWeapon].includes(anotherWeapon)) {
         return oneWeapon
       }
-  
       return anotherWeapon
     }
   }
@@ -62,19 +61,15 @@ class Weapon {
       this._name = name
       this._weapons = []
     }
-  
     get name() {
       return this._name
     }
-  
     get weapons() {
       return this._weapons
     }
-  
     set weapons(weapon) {
       this._weapons = [...this._weapons, weapon]
     }
-  
   
     against(anotherPlayer) {
       const results = []
@@ -92,7 +87,6 @@ class Weapon {
           )
         }
       }
-  
       return results
     }
   }
@@ -109,7 +103,6 @@ class Weapon {
     for (let i = 1; i <= nCases; i++) {
       [Fernanda.weapons, Marcia.weapons] = gets().split(' ')
     }
-  
+
     Fernanda.against(Marcia).forEach(res => console.log(res))
   }
-  
