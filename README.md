@@ -164,6 +164,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
   </div>
   <div>
+    <h4>Desafios matemáticos em Java</h4>
+    <a href="">Área Direita</a><br/>
+    <a href="">Área Esquerda</a><br/>
+    <a href="">Área Inferior</a><br/>
+  </div>
+  <div>
     <h4>Fundamentos Aritméticos em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/QtdeNumerosPositivos.java">Quantidade de Números Positivos</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
@@ -200,6 +206,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/GincanaAcampamento.java">Gincana no Acampamento</a><br/>
   </div>
   <div>
+    <h4>Primeiros passos em Java</h4>
+    <a href="">Domingo de Manhã</a><br/>
+    <a href="">A Resposta de Theon</a><br/>
+    <a href="">Divisores I</a><br/>
+  </div>
+  <div>
     <h4>Praticando programação em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/AbreviacaoPostsBlog.java">Abreviando posts do blog</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ConjuntosBonsRuins.java">Conjuntos bons ou ruins?</a><br/>
@@ -214,6 +226,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/CombinacaoStrings.java">Combinação de strings</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/HashMagico.java">Hash Mágico</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/TabuleiroSecreto.java">O tabuleiro secreto</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo Desafios em Java</h4>
+    <a href="">Preenchimento de Vetor III</a><br/>
+    <a href="">Evitando Chuva</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/UniformesFinalAno.java">Uniformes de final de ano</a><br/>
   </div>
   <div>
     <h4>Solução de problemas básicos em Java</h4>
