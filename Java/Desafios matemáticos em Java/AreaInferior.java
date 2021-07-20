@@ -6,6 +6,8 @@ uma matriz M[12][12]. Em seguida, calcule e mostre a soma ou a média
 considerando somente aqueles elementos que estão na área inferior da matriz,
 conforme ilustrado abaixo (área verde).
 
+vide arquivo em assets area-inferior.png
+
 - Entrada
 
 A primeira linha de entrada contem um único caractere Maiúsculo O ('S' ou 'M'),

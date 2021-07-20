@@ -8,12 +8,14 @@ conforme ilustrado abaixo (área verde).
 
 vide arquivo em assets area-esquerda.png
 
-Entrada
+- Entrada
+
 A primeira linha de entrada contem um único caractere Maiúsculo O ('S' ou 'M'),
 indicando a operação (Soma ou Média) que deverá ser realizada com os elementos
 da matriz. Seguem os 144 valores de ponto flutuante que compõem a matriz.
 
-Saída
+- Saída
+
 Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto
 decimal.
 */

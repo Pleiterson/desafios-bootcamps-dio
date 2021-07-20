@@ -18,8 +18,8 @@
 <!--About session-->
 <h1 align="center">Desafios dos Bootcamps da Digital Innovation One</h1>
 
-Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
-Os códigos estão rodando normalmente na plataforma da DIO.
+Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br><br>
+Os códigos estão rodando normalmente na plataforma da DIO.<br>
 
 <!-- Ícones das linguagens -->
 <p align="center">
@@ -47,7 +47,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
   </a>
-</p>
+</p><br>
 
 <h3>📚 Códigos nas Linguagens </h3>
 
@@ -165,9 +165,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios matemáticos em Java</h4>
-    <a href="">Área Direita</a><br/>
-    <a href="">Área Esquerda</a><br/>
-    <a href="">Área Inferior</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaDireita.java">Área Direita</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaEsquerda.java">Área Esquerda</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaInferior.java">Área Inferior</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
@@ -207,9 +207,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Primeiros passos em Java</h4>
-    <a href="">Domingo de Manhã</a><br/>
-    <a href="">A Resposta de Theon</a><br/>
-    <a href="">Divisores I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Domingo.java">Domingo de Manhã</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Theon.java">A Resposta de Theon</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Divisores.java">Divisores I</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Java</h4>
@@ -229,8 +229,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Resolvendo Desafios em Java</h4>
-    <a href="">Preenchimento de Vetor III</a><br/>
-    <a href="">Evitando Chuva</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20em%20Java/PreenchimentoVetorIII.java">Preenchimento de Vetor III</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20em%20Java/Chuva.java">Evitando Chuva</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/UniformesFinalAno.java">Uniformes de final de ano</a><br/>
   </div>
   <div>
