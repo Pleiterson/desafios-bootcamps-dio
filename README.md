@@ -19,8 +19,8 @@
 <h1 align="center">Desafios dos Bootcamps da Digital Innovation One</h1>
 
 Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br><br>
-Os códigos estão rodando normalmente na plataforma da DIO.<br><br>
-
+Os códigos estão rodando normalmente na plataforma da DIO.
+<br><br>
 <!-- Ícones das linguagens -->
 <p align="center">
   <!-- C# -->
@@ -65,8 +65,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.<br><br>
   <div>
     <h4>Desafios avançados em C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
-    <a href="">Média 3</a><br/>
-    <a href="">Tempo de Jogo com Minutos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20avan%C3%A7ados%20em%20C%23/media3.cs">Média 3</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20avan%C3%A7ados%20em%20C%23/tempo-jogo-minutos.cs">Tempo de Jogo com Minutos</a><br/>
   </div>
   <div>
     <h4>Desenvolvendo algoritmos com C#</h4>
@@ -86,9 +86,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.<br><br>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/distancia.cs">Distância</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
     <p>---</p>
-    <a href="">Sequência Lógica</a><br/>
-    <a href="">Média 2</a><br/>
-    <a href="">Positivos e Média</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/sequencia-logica.cs">Sequência Lógica</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/media2.cs">Média 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/positivos-media.cs">Positivos e Média</a><br/>
   </div>
   <div>
     <h4>Praticando programação em C#</h4>
@@ -138,9 +138,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.<br><br>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/ddd.cs">DDD</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/aumento-salario.cs">Aumento de Salário</a><br/>
     <p>---</p>
-    <a href="">Preenchimento de Vetor I</a><br/>
-    <a href="">Trigo no Tabuleiro</a><br/>
-    <a href="">Positivos e Média</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/preenchimento-vetor-I.cs">Preenchimento de Vetor I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/trigo-tabuleiro.cs">Trigo no Tabuleiro</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/encaixa-nao.cs">Encaixa ou Não?</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas Essenciais com C#</h4>
