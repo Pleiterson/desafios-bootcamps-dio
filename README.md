@@ -439,8 +439,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Desafios Matemáticos em Kotlin</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/AnaliseDeNumeros.kt">Análise de Números</a><br/>
-    <a href="">Consumo Médio do Automóvel</a><br/>
-    <a href="">Coxinha de Bueno</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/ConsumoMedioAutom%C3%B3vel.kt">Consumo Médio do Automóvel</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/CoxinhaBueno.kt">Coxinha de Bueno</a><br/>
   </div>
   <div>
     <h4>Introdução a programação em Kotlin</h4>
@@ -450,11 +450,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Praticando Aritmética em Kotlin</h4>
-    <a href="">Coluna na Matriz</a><br/>
-    <a href="">Preenchimento Vetor I</a><br/>
-    <a href="">Substituição em Vetor I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/ColunaMatriz.kt">Coluna na Matriz</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/PreenchimentoVetorI.kt">Preenchimento Vetor I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/SubstituicaoVetorI.kt">Substituição em Vetor I</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/FibonacciFacil.kt">Fibonacci Fácil</a><br/>
-    <a href="">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/ExibindoNumerosPares.kt">Exibindo Números Pares</a><br/>
   </div>
   <div>
     <h4>Praticando programação com Kotlin</h4>
@@ -483,7 +483,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/CorridaTartarugas.kt">A Corrida de Tartarugas</a><br/>
     <p>---</p>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/AreaCirculo.kt">Área do Círculo</a><br/>
-    <a href="">Acima da Diagonal Principal</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20desafios%20em%20Kotlin/AcimaDiagonalPrincipal.kt">Acima da Diagonal Principal</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/MediaUm.kt">Média 1</a><br/>    
   </div>
   <div>
