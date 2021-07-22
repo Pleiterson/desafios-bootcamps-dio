@@ -299,6 +299,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/hash-magico.js">Hash Mágico</a><br/>
   </div>
   <div>
+    <h4>Desafios Matemáticos em JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Algoritmos/programa-para-validacao-de-notas.js">Programa para Validação de Notas</a><br/>
+  </div>
+  <div>
     <h4>Desenvolvimento de problemas avançados em JavaScript</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js">Ordenando Números Pares e Ímpares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/animal.js">Animal</a><br/>
@@ -311,6 +317,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/analise-de-numeros.js">Análise de Números</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
+  </div>
+  <div>
+    <h4>Iniciando Desafios em JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/multiplicacao-simples.js">Multiplicação Simples</a><br/>
   </div>
   <div>
     <h4>Introdução a Busca e Substituição em JavaScript</h4>
