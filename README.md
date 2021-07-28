@@ -172,6 +172,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <details>
   <summary><span>Java</span></summary>
   <div>
+    <h4>Desafio Aritmético em Java</h4>
+    <a href="">Acima da Diagonal Secundária</a><br/>
+    <a href="">Abaixo da Diagonal Secundária</a><br/>
+    <a href="">Abaixo da Diagonal Principal</a><br/>
+  </div>
+  <div>
     <h4>Desafios Aritméticos em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Aritm%C3%A9ticos%20em%20Java/divisores.java">Divisores</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/AnaliseNumeros.java">Análise de Números</a><br/>
@@ -182,6 +188,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaDireita.java">Área Direita</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaEsquerda.java">Área Esquerda</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaInferior.java">Área Inferior</a><br/>
+  </div>
+ <div>
+    <h4>Desafios Avançados em Java</h4>
+    <a href="">Fibonacci em Vetor</a><br/>
+    <a href="">Área Superior</a><br/>
+    <a href="">A Mudança</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
@@ -196,6 +208,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/EntradaESaidaCPF.java">Entrada e Saída CPF</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">DDD</a><br/>
+    <p>---</p>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/FolhaPagamento.java">Folha de Pagamento</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ContagemCedulas.java">Contagem de Cédulas</a><br/>
   </div>
   <div>
     <h4>Introdução a Busca e Substituição em Java</h4>
