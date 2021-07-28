@@ -173,9 +173,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Java</span></summary>
   <div>
     <h4>Desafio Aritmético em Java</h4>
-    <a href="">Acima da Diagonal Secundária</a><br/>
-    <a href="">Abaixo da Diagonal Secundária</a><br/>
-    <a href="">Abaixo da Diagonal Principal</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/AcimaDiagonalSecundaria.java">Acima da Diagonal Secundária</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/AbaixoDiagonalSecundaria.java">Abaixo da Diagonal Secundária</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/AbaixoDiagonalPrincipal.java">Abaixo da Diagonal Principal</a><br/>
   </div>
   <div>
     <h4>Desafios Aritméticos em Java</h4>
@@ -191,9 +191,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
  <div>
     <h4>Desafios Avançados em Java</h4>
-    <a href="">Fibonacci em Vetor</a><br/>
-    <a href="">Área Superior</a><br/>
-    <a href="">A Mudança</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/FibonacciEmVetor.java">Fibonacci em Vetor</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AreaSuperior.java">Área Superior</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AMudanca.java">A Mudança</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
