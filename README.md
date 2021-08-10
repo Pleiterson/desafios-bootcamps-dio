@@ -304,6 +304,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+    <p>---</p>
+    <a href="">Fibonacci Fácil</a><br/>
+    <a href="">Preenchimento de Vetor I</a><br/>
+    <a href="">Substituição em Vetor I</a><br/>
   </div>
   <div>
     <h4>Desafios Lógicos</h4>
