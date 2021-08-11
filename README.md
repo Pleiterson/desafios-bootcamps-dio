@@ -18,7 +18,7 @@
 <!--About session-->
 <h1 align="center">Desafios dos Bootcamps da Digital Innovation One</h1>
 
-Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br><br>
+Aqui você vai encontrar todos os desafios dos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br><br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 <br><br>
 <!-- Ícones das linguagens -->
