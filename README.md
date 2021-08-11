@@ -549,15 +549,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Python</span></summary>
   <div>
     <h4>Desafios matemáticos em Python</h4>
-    <a href="">Rodízio de Cavalos e Carruagens</a><br/>
-    <a href="">Preenchimento de Vetor III</a><br/>
-    <a href="">Tempo de Jogo com Minutos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Desafios%20matem%C3%A1ticos%20em%20Python/RodizioCavalosCarruagens.py">Rodízio de Cavalos e Carruagens</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Desafios%20matem%C3%A1ticos%20em%20Python/PreenchimentoVetorIII.py">Preenchimento de Vetor III</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Desafios%20matem%C3%A1ticos%20em%20Python/TempoJogoMinutos.py">Tempo de Jogo com Minutos</a><br/>
   </div>
   <div>
     <h4>Resolvendo algoritmos com Python</h4>
-    <a href="">Fibonacci Fácil</a><br/>
-    <a href="">Exibindo Números Pares</a><br/>
-    <a href="">A Resposta de Theon</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Resolvendo%20algoritmos%20com%20Python/FibonacciFacil.py">Fibonacci Fácil</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Resolvendo%20algoritmos%20com%20Python/ExibindoNumerosPares.py">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Python/Resolvendo%20algoritmos%20com%20Python/ARespostaTheon.py">A Resposta de Theon</a><br/>
   </div>
   <div>
     <h4>Solucionando Desafios em Python</h4>
