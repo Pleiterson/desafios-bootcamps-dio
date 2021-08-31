@@ -67,7 +67,7 @@ public class MelhorAmigoPablo {
                 .thenComparing(Participante::getNome)).collect(Collectors.toList());
     
         participantesOrdenados.forEach(p -> {
-            if(!p.getNome().equals("Abhay")) {
+            if(!p.getNome().equals("FIM")) {
                 System.out.println(p.getNome());
             }
         });
