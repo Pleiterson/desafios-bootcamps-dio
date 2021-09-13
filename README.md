@@ -80,11 +80,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios numéricos em C#</h4>
-    <a href="">Tipo de Combustível</a><br/>
-    <a href="">O Maior</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20num%C3%A9ricos%20em%20C%23/TipoDeCombustivel.cs">Tipo de Combustível</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20num%C3%A9ricos%20em%20C%23/OMaior.cs">O Maior</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
-    <a href="">Tipos de Triângulos</a><br/>
-    <a href="">Sequência Lógica 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20num%C3%A9ricos%20em%20C%23/TiposDeTriangulos.cs">Tipos de Triângulos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20num%C3%A9ricos%20em%20C%23/SequenciaLogica2.cs">Sequência Lógica 2</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
   </div>
   <div>
@@ -118,7 +118,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Introdução a Resolução de Desafios com C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
-    <a href="">Números Ímpares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Resolu%C3%A7%C3%A3o%20de%20Desafios%20com%20C%23/NumerosImpares.cs">Números Ímpares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/conversao-de-tempo.cs">Conversão de Tempo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/tempo-do-dobby.cs">Tempo do Dobby</a><br/>
   </div>
