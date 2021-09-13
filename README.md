@@ -79,6 +79,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs">Pedro Bento e o Mundo de OZ</a><br/>
   </div>
   <div>
+    <h4>Desafios numéricos em C#</h4>
+    <a href="">Tipo de Combustível</a><br/>
+    <a href="">O Maior</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
+    <a href="">Tipos de Triângulos</a><br/>
+    <a href="">Sequência Lógica 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
+  </div>
+  <div>
     <h4>Desenvolvendo algoritmos com C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs">Cálculo de viagem</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/album-da-copa.cs">Álbum da Copa</a><br/>
@@ -107,10 +116,22 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/positivos-media.cs">Positivos e Média</a><br/>
   </div>
   <div>
+    <h4>Introdução a Resolução de Desafios com C#</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
+    <a href="">Números Ímpares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/conversao-de-tempo.cs">Conversão de Tempo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/tempo-do-dobby.cs">Tempo do Dobby</a><br/>
+  </div>
+  <div>
     <h4>Praticando programação em C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs">Compras no Supermercado</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/pink-cerebro.cs">Pink e Cérebro</a><br/>
+  </div>
+  <div>
+    <h4>Primeiros desafios Matemáticos em C#</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/soma-simples.cs">Soma Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/ddd.cs">DDD</a><br/>
   </div>
   <div>
     <h4>Primeiros programas em C#</h4>
