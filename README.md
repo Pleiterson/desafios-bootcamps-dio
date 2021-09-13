@@ -492,15 +492,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios numéricos em Kotlin</h4>
-    <a href="">O Jogo Matemática de Paula</a><br/>
-    <a href="">TDA Racional</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/JogoMatematicoPaula.kt">O Jogo Matemática de Paula</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/TDARacional.kt">TDA Racional</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/PrimoRapido.kt">Primo Rápido</a><br/>
   </div>
   <div>
     <h4>Introdução a programação com Kotlin</h4>
-    <a href="">Idade em Dias</a><br/>
-    <a href="">Média 3</a><br/>
-    <a href="">Conversão de Tempo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20com%20Kotlin/IdadeEmDias.kt">Idade em Dias</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20com%20Kotlin/Media3.kt">Média 3</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20com%20Kotlin/ConversaoDeTempo.kt">Conversão de Tempo</a><br/>
   </div>
   <div>
     <h4>Introdução a programação em Kotlin</h4>
@@ -534,7 +534,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/MediaUm.kt">Média 1</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/MultiplicacaoSimples.kt">Multiplicação Simples</a><br/>
     <p>---</p>
-    <a href="">Sequência Lógica</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Primeiros%20passos%20em%20Kotlin/SequenciaLogica.kt">Sequência Lógica</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas.kt">Figurinhas</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Kotlin/Solucionando%20problemas%20em%20Kotlin/TaxaImpostoRenda.kt">Taxa de Imposto de Renda</a><br/>
   </div>
