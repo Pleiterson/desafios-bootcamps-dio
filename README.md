@@ -142,8 +142,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Primeiros desafios com C#</h4>
-    <a href="">Mês</a><br/>
-    <a href="">Quantidade de Números Positivos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20com%20C%23/Mes.cs">Mês</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20com%20C%23/QuantidadeNumerosPositivos.cs">Quantidade de Números Positivos</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
   </div>
   <div>
