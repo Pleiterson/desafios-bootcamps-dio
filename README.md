@@ -73,10 +73,22 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/visita-na-feira.cs">Visita na Feira</a><br/>
   </div>
   <div>
+    <h4>Desafios Básicos C#</h4>
+    <a href="">Multiplicação Simples</a><br/>
+    <a href="">Par ou Ímpar</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
+  </div>
+  <div>
     <h4>Desafios com C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs">Animal</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/area-circulo.cs">Área do Círculo</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Intermediários C#</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/preenchimento-vetor-I.cs">Preenchimento de Vetor I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/trigo-tabuleiro.cs">Trigo no Tabuleiro</a><br/>
   </div>
   <div>
     <h4>Desafios Introdutórios com C#</h4>
@@ -145,6 +157,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20com%20C%23/Mes.cs">Mês</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20com%20C%23/QuantidadeNumerosPositivos.cs">Quantidade de Números Positivos</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
+  </div>
+  <div>
+    <h4>Primeiros desafios em C#</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/distancia.cs">Distância</a><br/>
+    <a href="">Diferença</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
   </div>
   <div>
     <h4>Primeiros passos com C#</h4>
@@ -456,6 +474,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+  </div>
+  <div>
+    <h4>Primeiros Desafios JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/blobs.js">Blobs</a><br/>
   </div>
   <div>
     <h4>Problemas Aritméticos</h4>
