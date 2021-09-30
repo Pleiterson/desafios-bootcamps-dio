@@ -74,8 +74,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios Básicos C#</h4>
-    <a href="">Multiplicação Simples</a><br/>
-    <a href="">Par ou Ímpar</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20B%C3%A1sicos%20C%23/MultiplicacaoSimples.cs">Multiplicação Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20B%C3%A1sicos%20C%23/ParOuImpar.cs">Par ou Ímpar</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
   </div>
   <div>
@@ -161,7 +161,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Primeiros desafios em C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/distancia.cs">Distância</a><br/>
-    <a href="">Diferença</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20em%20C%23/Diferenca.cs">Diferença</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
   </div>
   <div>
