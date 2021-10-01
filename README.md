@@ -308,9 +308,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Introdução a Programação em Java</h4>
-    <a href="">Tuitando</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Tuitando.java">Tuitando</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">DDD</a><br/>
-    <a href="">Conversão de Tempo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/ConversaoDeTempo.java">Conversão de Tempo</a><br/>
   </div>
   <div>
     <h4>Ordenação e Filtros em Java</h4>
@@ -322,15 +322,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Primeiros desafios de código com Java</h4>
-    <a href="">Mês</a><br/>
-    <a href="">Teste de Seleção 1</a><br/>
-    <a href="">Validação de Nota</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Mes.java">Mês</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/TesteDeSelecao1.java">Teste de Seleção 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/ValidacaoDeNota.java">Validação de Nota</a><br/>
   </div>
   <div>
     <h4>Primeiros passos com Java</h4>
-    <a href="">Distância</a><br/>
-    <a href="">Soma Simples</a><br/>
-    <a href="">Dividindo X por Y</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20com%20Java/Distancia.java">Distância</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20com%20Java/SomaSimples.java">Soma Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20com%20Java/DividindoXPorY.java">Dividindo X por Y</a><br/>
   </div>
   <div>
     <h4>Primeiros passos em Java</h4>
