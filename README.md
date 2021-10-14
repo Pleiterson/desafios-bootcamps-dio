@@ -280,7 +280,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20num%C3%A9ricos%20em%20Java/FatorialSimples.java">Fatorial Simples</a><br/>
     <p>---</p>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/ConversaoDeTempo.java">Conversão de Tempo</a><br/>
-    <a href="">Seis Números Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20num%C3%A9ricos%20em%20Java/SeisNumerosPares.java">Seis Números Pares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20num%C3%A9ricos%20em%20Java/FatorialSimples.java">Fatorial Simples</a><br/>
   </div>
   <div>
@@ -319,9 +319,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/SomaSimples.java">Soma Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Media1.java">Média 1</a><br/>
     <p>---</p>
-    <a href="">Múltiplos</a><br/>
-    <a href="">Tempo de Jogo</a><br/>
-    <a href="">Encaixa ou Não I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Multiplos.java">Múltiplos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/TempoDeJogo.java">Tempo de Jogo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/EncaixaOuNaoI.java">Encaixa ou Não I</a><br/>
   </div>
   </div>
   <div>
@@ -356,9 +356,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Theon.java">A Resposta de Theon</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Divisores.java">Divisores I</a><br/>
     <p>---</p>
-    <a href="">Batmain</a><br/>
-    <a href="">Diferença</a><br/>
-    <a href="">Pares entre Cinco Números</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Batmain.java">Batmain</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Diferenca.java">Diferença</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/ParesEntreCincoNumeros.java">Pares entre Cinco Números</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Java</h4>
