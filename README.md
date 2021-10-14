@@ -263,16 +263,21 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
   </div>
   <div>
+    <h4>Desafios Avançados em Java</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/FibonacciEmVetor.java">Fibonacci em Vetor</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AreaSuperior.java">Área Superior</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AMudanca.java">A Mudança</a><br/>
+  </div>
+  <div>
     <h4>Desafios matemáticos em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaDireita.java">Área Direita</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaEsquerda.java">Área Esquerda</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaInferior.java">Área Inferior</a><br/>
   </div>
- <div>
-    <h4>Desafios Avançados em Java</h4>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/FibonacciEmVetor.java">Fibonacci em Vetor</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AreaSuperior.java">Área Superior</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20Avan%C3%A7ados%20em%20Java/AMudanca.java">A Mudança</a><br/>
+    <h4>Desafios numéricos em Java</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Divisores.java">Divisores I</a><br/>
+    <a href="">Média 1</a><br/>
+    <a href="">Fatorial Simples</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
@@ -305,6 +310,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/VisitaFeira.java">Visita na Feira</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/FolhaPagamento.java">Folha de Pagamento</a><br/>
+    <p>---</p>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
+    <a href="">Soma Simples</a><br/>
+    <a href="">Média 1</a><br/>
+  </div>
   </div>
   <div>
     <h4>Introdução a Programação em Java</h4>
@@ -396,6 +406,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/menor-e-posicao.js">Menor e Posição</a><br/>
   </div>
   <div>
+    <h4>Desafio Aritmético em JavaScript</h4>
+    <a href="">Área Inferior</a><br/>
+    <a href="">Positivos e Média</a><br/>
+    <a href="">Nome no Formulário</a><br/>
+  </div>
+  <div>
     <h4>Desafios Aritméticos em JavaScript</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
@@ -405,6 +421,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/fibonacci-facil.js">Fibonacci Fácil</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/preenchimento-vetor-I.js">Preenchimento de Vetor I</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/substituicao-vetor-I.js">Substituição em Vetor I</a><br/>
+  </div>
+  <div>
+    <h4>Desafios avançados de código em JavaScript</h4>
+    <a href="">Diferença</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/idade-em-dias.js">Idade em Dias</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/fila-do-banco.js">Fila do Banco</a><br/>
   </div>
   <div>
     <h4>Desafios Lógicos</h4>
