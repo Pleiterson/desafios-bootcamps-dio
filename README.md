@@ -274,6 +274,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaEsquerda.java">Área Esquerda</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20matem%C3%A1ticos%20em%20Java/AreaInferior.java">Área Inferior</a><br/>
   </div>
+  <div>
     <h4>Desafios numéricos em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Divisores.java">Divisores I</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Media1.java">Média 1</a><br/>
@@ -282,6 +283,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/ConversaoDeTempo.java">Conversão de Tempo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20num%C3%A9ricos%20em%20Java/SeisNumerosPares.java">Seis Números Pares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20num%C3%A9ricos%20em%20Java/FatorialSimples.java">Fatorial Simples</a><br/>
+  </div>
+  <div>
+    <h4>Desafios para iniciantes em Java</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Diferenca.java">Diferença</a><br/>
+    <a href="">Ho Ho Ho</a><br/>
+    <a href="">Quadrante</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
@@ -322,7 +329,6 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Multiplos.java">Múltiplos</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/TempoDeJogo.java">Tempo de Jogo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/EncaixaOuNaoI.java">Encaixa ou Não I</a><br/>
-  </div>
   </div>
   <div>
     <h4>Introdução a Programação em Java</h4>
