@@ -287,8 +287,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div>
     <h4>Desafios para iniciantes em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Primeiros%20passos%20em%20Java/Diferenca.java">Diferença</a><br/>
-    <a href="">Ho Ho Ho</a><br/>
-    <a href="">Quadrante</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20para%20iniciantes%20em%20Java/HoHoHo.java">Ho Ho Ho</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante.java">Quadrante</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
