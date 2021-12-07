@@ -448,15 +448,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios Iniciais JavaScript</h4>
-    <a href="">Tabuada</a><br/>
-    <a href="">Intervalo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Tabuada.js">Tabuada</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo.js">Intervalo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js">Tipo de Combustível</a><br/>
   </div>
   <div>
     <h4>Desafios Intermediários JavaScript</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/taxa-de-imposto-de-renda.js">Taxa de Imposto de Renda</a><br/>
-    <a href="">Saída 6</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript/Saida6.js">Saída 6</a><br/>
   </div>
   <div>
     <h4>Desafios Lógicos</h4>
@@ -469,8 +469,8 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Desafios Médios JavaScript</h4>
-    <a href="">Fases da Lua</a><br/>
-    <a href="">Polígonos Regulares Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/FasesDaLua.js">Fases da Lua</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/PoligonosRegularesSimples.js">Polígonos Regulares Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
   </div>
   <div>
