@@ -193,21 +193,21 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Resolvendo Desafios Básicos em C#</h4>
-    <a href="">Maior e Posição</a><br/>
-    <a href="">Guilherme e suas Pipas</a><br/>
-    <a href="">Soma de Ímpares Consecutivos I</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20C%23/MaiorEPosicao.cs">Maior e Posição</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20C%23/GuilhermeESuasPipas.cs">Guilherme e suas Pipas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20C%23/SomaSeImparesConsecutivosI.cs">Soma de Ímpares Consecutivos I</a><br/>
   </div>
   <div>
     <h4>Resolvendo Desafios Iniciais em C#</h4>
-    <a href="">Ho Ho Ho</a><br/>
-    <a href="">Pneu</a><br/>
-    <a href="">Quadrante</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20Iniciais%20em%20C%23/HoHoHo.cs">Ho Ho Ho</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20Iniciais%20em%20C%23/Pneu.cs">Pneu</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Desafios%20Iniciais%20em%20C%23/Quadrante.cs">Quadrante</a><br/>
   </div>
   <div>
     <h4>Resolvendo desafios Intermediários em C#</h4>
-    <a href="">PUM</a><br/>
-    <a href="">Polígonos Regulares Simples</a><br/>
-    <a href="">Intervalo 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PUM.cs">PUM</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PoligonosRegularesSimples.cs">Polígonos Regulares Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/Intervalo2.cs">Intervalo 2</a><br/>
   </div>
   <div>
     <h4>Resolvendo algoritmos com C#</h4>
@@ -408,15 +408,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Resolvendo Desafios Intermediários em Java</h4>
-    <a href="">Tamanho da Placa</a><br/>
-    <a href="">Entrada e saída de Números Inteiros</a><br/>
-    <a href="">Senha Fixa</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/TamanhoDaPlaca.java">Tamanho da Placa</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/EntradaESaidaDeNumerosInteiros.java">Entrada e saída de Números Inteiros</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/SenhaFixa.java">Senha Fixa</a><br/>
   </div>
   <div>
     <h4>Resolvendo Desafios médios em Java</h4>
-    <a href="">Reservatório de Mel</a><br/>
-    <a href="">A Mesagem do Padre do Balão</a><br/>
-    <a href="">Crescente e Decrescente</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/ReservatorioDeMel.java">Reservatório de Mel</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/AMesagemDoPadreDoBalao.java">A Mesagem do Padre do Balão</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/CrescenteEDecrescente.java">Crescente e Decrescente</a><br/>
   </div>
   <div>
     <h4>Solução de problemas básicos em Java</h4>
