@@ -447,6 +447,18 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/fila-do-banco.js">Fila do Banco</a><br/>
   </div>
   <div>
+    <h4>Desafios Iniciais JavaScript</h4>
+    <a href="">Tabuada</a><br/>
+    <a href="">Intervalo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js">Tipo de Combustível</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Intermediários JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/taxa-de-imposto-de-renda.js">Taxa de Imposto de Renda</a><br/>
+    <a href="">Saída 6</a><br/>
+  </div>
+  <div>
     <h4>Desafios Lógicos</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/abreviando-posts-do-blog.js">Abreviando posts do blog</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/brinquedos-do-papai-noel.js">Brinquedos do Papai Noel</a><br/>
@@ -454,6 +466,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/album-da-copa.js">Álbum da Copa</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/hash-magico.js">Hash Mágico</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Médios JavaScript</h4>
+    <a href="">Fases da Lua</a><br/>
+    <a href="">Polígonos Regulares Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
   </div>
   <div>
     <h4>Desafios Matemáticos em JavaScript</h4>
