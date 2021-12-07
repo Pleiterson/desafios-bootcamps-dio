@@ -407,6 +407,18 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/UniformesFinalAno.java">Uniformes de final de ano</a><br/>
   </div>
   <div>
+    <h4>Resolvendo Desafios Intermediários em Java</h4>
+    <a href="">Tamanho da Placa</a><br/>
+    <a href="">Entrada e saída de Números Inteiros</a><br/>
+    <a href="">Senha Fixa</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo Desafios médios em Java</h4>
+    <a href="">Reservatório de Mel</a><br/>
+    <a href="">A Mesagem do Padre do Balão</a><br/>
+    <a href="">Crescente e Decrescente</a><br/>
+  </div>
+  <div>
     <h4>Solução de problemas básicos em Java</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/IdadeEmDias.java">Idade em Dias</a><br/>
