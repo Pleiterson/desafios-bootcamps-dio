@@ -465,6 +465,24 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/fila-do-banco.js">Fila do Banco</a><br/>
   </div>
   <div>
+    <h4>Desafios Básicos em JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js">Soma Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Iniciais em JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/distancia.js">Distância</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Médios em JavaScript</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/exibindo-numeros-pares.js">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/quantidade-de-numeros-positivos.js">Quantidade de Números Positivos</a><br/>
+  </div>
+  <div>
     <h4>Desafios Iniciais JavaScript</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Tabuada.js">Tabuada</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo.js">Intervalo</a><br/>
