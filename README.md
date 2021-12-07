@@ -192,6 +192,24 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/rodizio-de-cavalos-e-carruagens.cs">Rodízio de cavalos e carruagens</a><br/>
   </div>
   <div>
+    <h4>Resolvendo Desafios Básicos em C#</h4>
+    <a href="">Maior e Posição</a><br/>
+    <a href="">Guilherme e suas Pipas</a><br/>
+    <a href="">Soma de Ímpares Consecutivos I</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo Desafios Iniciais em C#</h4>
+    <a href="">Ho Ho Ho</a><br/>
+    <a href="">Pneu</a><br/>
+    <a href="">Quadrante</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo desafios Intermediários em C#</h4>
+    <a href="">PUM</a><br/>
+    <a href="">Polígonos Regulares Simples</a><br/>
+    <a href="">Intervalo 2</a><br/>
+  </div>
+  <div>
     <h4>Resolvendo algoritmos com C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
