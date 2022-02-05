@@ -183,12 +183,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Programando em C#</h4>
-    <a href="">Xenlongão</a><br/>
-    <a href="">Quadrado de Pares</a><br/>
-    <a href="">Sequência S</a><br/>
-    <a href="">Sequência IJ 2</a><br/>
-    <a href="">Vai ter Copa?</a><br/>
-    <a href="">Sucessor Par</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/Xenlongao.cs">Xenlongão</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/QuadradoDePares.cs">Quadrado de Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/SequenciaS.cs">Sequência S</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/SequenciaIJ2.cs">Sequência IJ 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/VaiTerCopa.cs">Vai ter Copa?</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/SucessorPar.cs">Sucessor Par</a><br/>
   </div>
   <div>
     <h4>Resolvendo Algoritmos</h4>
