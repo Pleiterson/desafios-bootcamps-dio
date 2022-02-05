@@ -182,6 +182,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
   </div>
   <div>
+    <h4>Programando em C#</h4>
+    <a href="">Xenlongão</a><br/>
+    <a href="">Quadrado de Pares</a><br/>
+    <a href="">Sequência S</a><br/>
+    <a href="">Sequência IJ 2</a><br/>
+    <a href="">Vai ter Copa?</a><br/>
+    <a href="">Sucessor Par</a><br/>
+  </div>
+  <div>
     <h4>Resolvendo Algoritmos</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/hora-da-corrida.cs">Hora da Corrida</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20Algoritmos/cardapio-aereo.cs">Cardápio Aéreo</a><br/>
