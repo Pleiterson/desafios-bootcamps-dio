@@ -93,7 +93,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <h4>Desafios Iniciais - GFT Start #3 .NET</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20em%20C%23/Diferenca.cs">Diferença</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
-    <a href="">Cálculo Simples</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20.NET/CalculoSimples.cs">Cálculo Simples</a><br/>
   </div>
   <div>
     <h4>Desafios Intermediários C#</h4>
@@ -626,21 +626,21 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/blobs.js">Blobs</a><br/>
   </div>
   <div>
-    <h4>Problemas Aritméticos</h4>
-    <a href="">Quadrado de Pares</a><br/>
-    <a href="">Resto 2</a><br/>
-    <a href="">Nossos Dias Nunca Voltarão</a><br/>
-    <a href="">Tomadas</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PoligonosRegularesSimples.cs">Polígonos Regulares Simples</a><br/>
-  </div>
-  <div>
     <h4>Programando com JavaScript - Iniciante</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo.js">Intervalo</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
-    <a href="">Números Ímpares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Programando%20com%20JavaScript%20-%20Iniciante/NumerosImpares.js">Números Ímpares</a><br/>
   </div>
   <div>
     <h4>Programando com JS</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Programando%20com%20JS/QuadradoPares.js">Quadrado de Pares</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Programando%20com%20JS/Resto2.js">Resto 2</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20desafios%20em%20JavaScript/NossosDiasNuncaVoltarao.js">Nossos Dias Nunca Voltarão</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Tomadas.js">Tomadas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PoligonosRegularesSimples.cs">Polígonos Regulares Simples</a><br/>
+  </div>
+  <div>
+    <h4>Problemas Aritméticos</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js">Soma Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
@@ -665,21 +665,21 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Resolvendo Desafios Básicos em JavaScript</h4>
-    <a href="">Múltiplos</a><br/>
-    <a href="">Teste de Seleção 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Multiplos.js">Múltiplos</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/TesteSele%C3%A7%C3%A3o1.js">Teste de Seleção 1</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
   </div>
   <div>
     <h4>Resolvendo desafios em JavaScript</h4>
-    <a href="">Frota de Táxi</a><br/>
-    <a href="">Xadrez</a><br/>
-    <a href="">Nossos Dias Nunca Voltarão</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20desafios%20em%20JavaScript/FrotaTaxi.js">Frota de Táxi</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Xadrez.js">Xadrez</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20desafios%20em%20JavaScript/NossosDiasNuncaVoltarao.js">Nossos Dias Nunca Voltarão</a><br/>
   </div>
   <div>
     <h4>Resolvendo Desafios Intermediários em JavaScript</h4>
-    <a href="">Triângulo</a><br/>
-    <a href="">Guilherme e suas Pipas</a><br/>
-    <a href="">Tomadas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Triangulo.js">Triângulo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/GuilhermeSuasPipas.js">Guilherme e suas Pipas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Tomadas.js">Tomadas</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas</h4>
