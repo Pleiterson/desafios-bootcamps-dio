@@ -634,6 +634,12 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PoligonosRegularesSimples.cs">Polígonos Regulares Simples</a><br/>
   </div>
   <div>
+    <h4>Programando com JavaScript - Iniciante</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo.js">Intervalo</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
+    <a href="">Números Ímpares</a><br/>
+  </div>
+  <div>
     <h4>Programando com JS</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js">Soma Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
