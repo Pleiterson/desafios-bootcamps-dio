@@ -639,6 +639,24 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20L%C3%B3gicos/o-tabuleiro-secreto.js">O tabuleiro secreto</a><br/>
   </div>
   <div>
+    <h4>Resolvendo Desafios Básicos em JavaScript</h4>
+    <a href="">Múltiplos</a><br/>
+    <a href="">Teste de Seleção 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo desafios em JavaScript</h4>
+    <a href="">Frota de Táxi</a><br/>
+    <a href="">Xadrez</a><br/>
+    <a href="">Nossos Dias Nunca Voltarão</a><br/>
+  </div>
+  <div>
+    <h4>Resolvendo Desafios Intermediários em JavaScript</h4>
+    <a href="">Triângulo</a><br/>
+    <a href="">Guilherme e suas Pipas</a><br/>
+    <a href="">Tomadas</a><br/>
+  </div>
+  <div>
     <h4>Solução de Problemas</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/gincana-no-acampamento.js">Gincana no Acampamento</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/fila-do-banco.js">Fila do Banco</a><br/>
