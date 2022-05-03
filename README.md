@@ -77,12 +77,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20B%C3%A1sicos%20C%23/MultiplicacaoSimples.cs">Multiplicação Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20B%C3%A1sicos%20C%23/ParOuImpar.cs">Par ou Ímpar</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
+    <p>---</p>
+    <p>Desafios Básicos - GFT Start #3 .NET</p>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Programando%20em%20C%23/VaiTerCopa.cs">Vai ter Copa?</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20avan%C3%A7ados%20em%20C%23/media3.cs">Média 3</a><br/>
   </div>
   <div>
     <h4>Desafios com C#</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs">Animal</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/area-circulo.cs">Área do Círculo</a><br/>
+  </div>
+  <div>
+    <h4>Desafios Iniciais - GFT Start #3 .NET</h4>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20desafios%20em%20C%23/Diferenca.cs">Diferença</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Primeiros%20programas%20em%20C%23/multiplos.cs">Múltiplos</a><br/>
+    <a href="">Cálculo Simples</a><br/>
   </div>
   <div>
     <h4>Desafios Intermediários C#</h4>
