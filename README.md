@@ -627,6 +627,14 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Problemas Aritméticos</h4>
+    <a href="">Quadrado de Pares</a><br/>
+    <a href="">Resto 2</a><br/>
+    <a href="">Nossos Dias Nunca Voltarão</a><br/>
+    <a href="">Tomadas</a><br/>
+    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/PoligonosRegularesSimples.cs">Polígonos Regulares Simples</a><br/>
+  </div>
+  <div>
+    <h4>Programando com JS</h4>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js">Soma Simples</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
     <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/JavaScript/Problemas%20Aritm%C3%A9ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
